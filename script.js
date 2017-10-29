@@ -7,7 +7,7 @@
   var availableBoards = {};
   var availableTasks = {};
 
-  // init
+  // init_test
 
   getAllTasks();
 
