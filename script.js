@@ -1,6 +1,6 @@
 ﻿$(document).ready(function() {
-  const apiRoot = 'http://shrouded-shelf-46919.herokuapp.com/ver1/';
-  const trelloApiRoot = 'http://shrouded-shelf-46919.herokuapp.com/ver1/trello/';
+  const apiRoot = 'https://shrouded-shelf-46919.herokuapp.com/ver1/';
+  const trelloApiRoot = 'https://shrouded-shelf-46919.herokuapp.com/ver1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
